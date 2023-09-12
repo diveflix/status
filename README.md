@@ -1,2 +1,2 @@
-# Status page for Diveflix
-
+# [status]
+Status page for Diveflix
